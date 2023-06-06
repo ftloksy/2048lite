@@ -22,9 +22,7 @@ with the number 2048 by merging tiles with the same number.
 # Playing Online
 
 You can play the game online by visiting the following
-
-       http://www.breadsoap.com/2048lite/
-
+url: [2048lite](http://www.breadsoap.com/2048lite/)
 Simply click on the link and it will take you to the game page
 where you can start playing right away.
 
